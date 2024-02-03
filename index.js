@@ -14,7 +14,7 @@ function sortByDevilFruit(arr) {
 }
 
 const sortedByDF = sortByDevilFruit(MUGIWARAS);
-// console.log(sortedByDF);
+console.log(sortedByDF);
 
 const usopp = {
   hasDevilFruitPowers: false,
@@ -56,8 +56,8 @@ const newMembers = [usopp, brook, tonytonychoppa, yamato];
 function addToTheTeam(newMember, arr) {
   arr.push(newMember);
 }
-addToTheTeam(usopp, MUGIWARAS);
-addToTheTeam(brook, MUGIWARAS);
-addToTheTeam(tonytonychoppa, MUGIWARAS);
-addToTheTeam(yamato, MUGIWARAS);
-console.log(MUGIWARAS);
+// addToTheTeam(usopp, MUGIWARAS);
+// addToTheTeam(brook, MUGIWARAS);
+// addToTheTeam(tonytonychoppa, MUGIWARAS);
+// addToTheTeam(yamato, MUGIWARAS);
+// console.log(MUGIWARAS);
